@@ -20,9 +20,13 @@ This is a classic Snake game implemented in Python using the Turtle graphics lib
    git clone https://github.com/GilkiNazmin/Snake-Game
 
 2. Navigate to the project directory:
+   
+   ```bash
    cd Snake-Game/snakeProject
 
-3. Run the game:
+4. Run the game:
+
+   ```bash
    python3 main.py
 
 ## Controls
