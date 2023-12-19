@@ -22,12 +22,12 @@ This is a classic Snake game implemented in Python using the Turtle graphics lib
 2. Navigate to the project directory:
    
    ```bash
-   cd Snake-Game/snakeProject
+    cd Snake-Game/snakeProject
 
 4. Run the game:
 
-   ```bash
-   python3 main.py
+    ```bash
+     python3 main.py
 
 ## Controls
 Use the arrow keys (Up, Down, Left, Right) to control the snake's movement.
